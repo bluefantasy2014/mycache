@@ -1,0 +1,5 @@
+[20161105 16:07:42.742] [DEBUG] [main] [LinkedHashMapTest.java:27][testCapacity] map's size :100
+[20161105 16:08:13.658] [DEBUG] [main] [LinkedHashMapTest.java:27][testCapacity] map's size :100
+[20161105 16:08:13.668] [DEBUG] [main] [LinkedHashMapTest.java:31][testCapacity] map's size :101
+[20161105 16:08:46.842] [DEBUG] [main] [LinkedHashMapTest.java:27][testCapacity] map's size :100
+[20161105 16:11:24.623] [DEBUG] [main] [LinkedHashMapTest.java:27][testCapacity] map's size :100
